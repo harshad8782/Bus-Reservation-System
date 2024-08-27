@@ -1,4 +1,4 @@
-**Problem Identified : **
+**Problem Identified :**
 It is often see that, when we have to travel to some place via bus, it is very hectic to buy tickets/reserve set at the time of departure. The queues are very long, etc. 
 
 **Solution Proposed :**
